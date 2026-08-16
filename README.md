@@ -4,6 +4,20 @@ A modern, full-duplex 1-on-1 private chat application built entirely from scratc
 
 ---
 
+## 📸 User Interface Visuals
+
+### ☀️ Light Theme Layout
+Modern desktop interface designed for bright workspaces, maximizing panel readability.
+
+![Light Mode Workspace Preview](./public/screenshots/light-theme.jpg)
+
+### 🌙 Dark Theme Layout
+Frosted glass-morphism panel layout optimized for low-light environments.
+
+![Dark Mode Workspace Preview](./public/screenshots/dark-theme.jpg)
+
+---
+
 ## ✨ Key Product Features
 
 * **1x1 Isolated Private Messaging:** Messages are securely routed from handle to handle over server memory mappings rather than blasted out to a global channel.
