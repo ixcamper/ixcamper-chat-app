@@ -33,7 +33,7 @@ Follow these quick commands back-to-back to spin up the cluster environment on y
 Navigate into your directory root and install the required modules:
 
 ```bash
-cd nextjs-websocket-chat
+cd ixcamper-chat-app
 
 # Install the WebSocket engine and its type definitions
 npm install ws
